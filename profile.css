@@ -62,6 +62,11 @@ nav ul li a{
     color:#403e3e;
     font-size: 30px;
 }
+.text-container p:nth-child(4){
+    font-family: myriad pro regular;
+    color:#403e3e;
+    font-size: 30px;
+}
 .text-container p{
     line-height: 0px;
     margin: :45px 0px 25px;
