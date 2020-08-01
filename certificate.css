@@ -4,3 +4,22 @@
     padding: auto;
     letter-spacing: 40px;
 }
+#container{
+    width:80%;
+    margin:10px auto;
+    
+}
+body{
+    background-image: url('https://www.insidehighered.com/sites/default/server_files/media/laptop-cloud-storage-shared-access-isometric-vector-id1063730694_0.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav,a{
+    color:whitesmoke;
+    font-size: 30px;
+    text-decoration: none;
+}
+a:hover{
+    background-color:rgb(87, 87, 190);
+    color:white ;
+}
