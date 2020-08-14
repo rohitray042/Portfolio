@@ -117,12 +117,14 @@ nav ul li a{
     .text-container p:nth-child(3){
         font-size:18px ;
     }
-    .text-container button{
-        font-size: 15px;
-        float: left;
-        width: 80px;
+    .text-container .down-cv{
+        width: 82px;
         height: 42px;
-        text-align:center;
+        text-align: center;
+    }
+    .text-container .hire-bttn{
+        width:70px;
+        height:42px;
     }
       
     .about-text p{
