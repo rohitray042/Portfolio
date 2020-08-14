@@ -90,6 +90,9 @@ nav ul li a{
 }
 /*------------- Small device responsive code--------------*/
 @media(min-width:360px) and (max-width:991px){
+    nav ul li a{
+        margin:10px ;
+    }
     #image{
         height:290px;
         left: 90%;
@@ -117,14 +120,16 @@ nav ul li a{
     .text-container button{
         font-size: 15px;
         float: left;
-        width: 90px;
+        width: 80px;
         height: 42px;
+        text-align:center;
     }
       
     .about-text p{
         font-size: 17px;
  }
 }
+/*---------------------*/
 .about-container{
     width: 80%;
     height:330px;
