@@ -89,7 +89,7 @@ nav ul li a{
     transform: translate(-70%);
 }
 /*------------- Small device responsive code--------------*/
-@media(min-width:360px) and (max-width:991px){
+@media(min-width:260px) and (max-width:991px){
     nav ul li a{
         margin:10px ;
     }
