@@ -118,13 +118,15 @@ nav ul li a{
         font-size:18px ;
     }
     .text-container .down-cv{
-        width: 82px;
+        width: 80px;
         height: 42px;
-        text-align: center;
+        font-size:12px;
+       
     }
     .text-container .hire-bttn{
         width:70px;
         height:42px;
+        
     }
       
     .about-text p{
